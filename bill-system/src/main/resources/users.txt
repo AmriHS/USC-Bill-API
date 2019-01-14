@@ -1,0 +1,37 @@
+[
+    {
+       "id": "mhunt",
+       "firstName": "Michelle",
+       "lastName": "Hunt",
+       "role": "STUDENT",
+       "college": "ARTS_AND_SCIENCES"
+    },
+    {
+        "id": "ggay",
+        "firstName": "Gregory",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "rbob",
+        "firstName": "Robert",
+        "lastName": "Bob",
+        "role": "ADMIN",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "mmatthews",
+        "firstName": "Manton",
+        "lastName": "Matthews",
+        "role": "ADMIN",
+        "college": "GRADUATE_SCHOOL"
+    },
+    {
+        "id": "jsmith",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "ADMIN",
+        "college": "ARTS_AND_SCIENCES"
+    }
+]

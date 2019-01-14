@@ -1,0 +1,101 @@
+[
+    {
+       "id": "mhunt",
+       "firstName": "Michelle",
+       "lastName": "Hunt",
+       "role": "STUDENT",
+       "college": "ARTS_AND_SCIENCES"
+    },
+    {
+        "id": "ggay",
+        "firstName": "Gregory",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "rbob",
+        "firstName": "Robert",
+        "lastName": "Bob",
+        "role": "ADMIN",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "mmatthews",
+        "firstName": "Manton",
+        "lastName": "Matthews",
+        "role": "ADMIN",
+        "college": "GRADUATE_SCHOOL"
+    },
+    {
+        "id": "jsmith",
+        "firstName": "John",
+        "lastName": "Smith",
+        "role": "ADMIN",
+        "college": "ARTS_AND_SCIENCES"
+    }
+    {
+        "id": "aabbott",
+        "firstName": "Allen",
+        "lastName": "Abbott",
+        "role": "STUDENT",
+        "college": "ARTS_AND_SCIENCES"
+    }
+    {
+        "id": "bbradley",
+        "firstName": "Bobby",
+        "lastName": "Bradley",
+        "role": "STUDENT",
+        "college": "ARTS_AND_SCIENCES"
+    },
+    {
+        "id": "ggaya",
+        "firstName": "GregoryA",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "ggayga",
+        "firstName": "GregoryGA",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "ggaysv",
+        "firstName": "GregorySV",
+        "lastName": "Gay",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "cconnor",
+        "firstName": "Chuck",
+        "lastName": "Connor",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "cconnorf",
+        "firstName": "ChuckF",
+        "lastName": "Connor",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "cconnorr",
+        "firstName": "ChuckR",
+        "lastName": "Connor",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    },
+    {
+        "id": "cconnorC",
+        "firstName": "ChuckC",
+        "lastName": "Connor",
+        "role": "STUDENT",
+        "college": "ENGINEERING_AND_COMPUTING"
+    }
+]
+

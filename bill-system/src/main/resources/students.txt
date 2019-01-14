@@ -1,0 +1,163 @@
+[
+  {
+    "student": {
+      "id": "mhunt",
+      "firstName": "Michelle",
+      "lastName": "Hunt",
+      "phone": "999-999-9999",
+      "emailAddress": "mhunt@mailbox.sc.edu",
+      "addressStreet": "221B Baker St.",
+      "addressCity": "Pittsburgh",
+      "addressState": "PA",
+      "addressPostalCode": "26505"
+    },
+    "college": "ARTS_AND_SCIENCES",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2016
+    },
+    "classStatus": "PHD",
+    "gradAssistant": true,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": false,
+    "courses": [
+        {
+            "name": "Naptime",
+            "id": "NAP 734",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "History of Napping",
+            "id": "ART HISTORY 725",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Sleepy Dancing",
+            "id": "DANCE 577",
+            "numCredits": 4,
+            "online": false
+        }
+    ],
+    "transactions": [
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 9,
+            "day": 10,
+            "year": 2016
+          },
+          "amount": 2000.00
+      },
+      {
+          "type": "CHARGE",
+          "transactionDate": {
+            "month": 12,
+            "day": 15,
+            "year": 2016
+          },
+          "amount": 2000.00,
+          "note": "Final total Fall 2016"
+      },
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 1,
+            "day": 10,
+            "year": 2017
+          },
+          "amount": 100.00,
+          "note": "Return for fee miscalculation"
+      },
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 1,
+            "day": 15,
+            "year": 2017
+          },
+          "amount": 1900.00
+       },
+       {
+          "type": "CHARGE",
+          "transactionDate": {
+            "month": 5,
+            "day": 15,
+            "year": 2017
+          },
+          "amount": 2000.00,
+          "note": "Final total Spring 2016"
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "ggay",
+      "firstName": "Gregory",
+      "lastName": "Gay",
+      "phone": "999-999-9999",
+      "emailAddress": "ggay@mailbox.sc.edu",
+      "addressStreet": "1600 Pennsylvania Ave",
+      "addressCity": "Columbia",
+      "addressState": "SC",
+      "addressPostalCode": "29205"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "FRESHMAN",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "WOODROW",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  }
+]

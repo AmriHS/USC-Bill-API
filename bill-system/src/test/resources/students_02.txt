@@ -1,0 +1,641 @@
+[
+  {
+    "student": {
+      "id": "mhunt",
+      "firstName": "Michelle",
+      "lastName": "Hunt",
+      "phone": "999-999-9999",
+      "emailAddress": "mhunt@mailbox.sc.edu",
+      "addressStreet": "221B Baker St.",
+      "addressCity": "Pittsburgh",
+      "addressState": "PA",
+      "addressPostalCode": "26505"
+    },
+    "college": "ARTS_AND_SCIENCES",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2016
+    },
+    "classStatus": "PHD",
+    "gradAssistant": true,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": true,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": false,
+    "courses": [
+        {
+            "name": "Naptime",
+            "id": "NAP 734",
+            "numCredits": 1,
+            "online": false
+        },
+        {
+            "name": "History of Napping",
+            "id": "ART HISTORY 725",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Sleepy Dancing",
+            "id": "DANCE 577",
+            "numCredits": 4,
+            "online": false
+        }
+    ],
+    "transactions": [
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 9,
+            "day": 10,
+            "year": 2016
+          },
+          "amount": 2000.00
+      },
+      {
+          "type": "CHARGE",
+          "transactionDate": {
+            "month": 12,
+            "day": 15,
+            "year": 2016
+          },
+          "amount": 2000.00,
+          "note": "Final total Fall 2016"
+      },
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 1,
+            "day": 10,
+            "year": 2017
+          },
+          "amount": 100.00,
+          "note": "Return for fee miscalculation"
+      },
+      {
+          "type": "PAYMENT",
+          "transactionDate": {
+            "month": 1,
+            "day": 15,
+            "year": 2017
+          },
+          "amount": 1900.00
+       },
+       {
+          "type": "CHARGE",
+          "transactionDate": {
+            "month": 5,
+            "day": 15,
+            "year": 2017
+          },
+          "amount": 2000.00,
+          "note": "Final total Spring 2016"
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "ggay",
+      "firstName": "Gregory",
+      "lastName": "Gay",
+      "phone": "999-999-9999",
+      "emailAddress": "ggay@mailbox.sc.edu",
+      "addressStreet": "1600 Pennsylvania Ave",
+      "addressCity": "Columbia",
+      "addressState": "SC",
+      "addressPostalCode": "29205"
+    },
+    "college": "ARTS_AND_SCIENCES",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "FRESHMAN",
+    "capstoneEnrolled": {
+      "semester": "FALL",
+      "year": 2015
+    },
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "WOODROW",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "aabbott",
+      "firstName": "Allen",
+      "lastName": "Abbott",
+      "phone": "212-212-0001",
+      "emailAddress": "aabbott@EmpireStateBldg.com",
+      "addressStreet": "350 5th Ave",
+      "addressCity": "New York City",
+      "addressState": "NY",
+      "addressPostalCode": "10118"
+    },
+    "college": "ARTS_AND_SCIENCES",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "SOPHOMORE",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "bbradley",
+      "firstName": "Bobby",
+      "lastName": "Bradley
+      ",
+      "phone": "212-212-0002",
+      "emailAddress": "bbradley@EmpireStateBldg.com",
+      "addressStreet": "350 5th Ave",
+      "addressCity": "New York City",
+      "addressState": "NY",
+      "addressPostalCode": "10118"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "SPRING",
+      "year": 2017
+    },
+    "classStatus": "JUNIOR",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "DEPARTMENTAL",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": false,
+    "courses": [
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "ggaya",
+      "firstName": "GregoryA",
+      "lastName": "Gay",
+      "phone": "999-999-9999",
+      "emailAddress": "ggay@mailbox.sc.edu",
+      "addressStreet": "1600 Pennsylvania Ave",
+      "addressCity": "Columbia",
+      "addressState": "SC",
+      "addressPostalCode": "29205"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "FRESHMAN",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "ATHLETIC",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "ggayga",
+      "firstName": "GregoryGA",
+      "lastName": "Gay",
+      "phone": "999-999-9999",
+      "emailAddress": "ggay@mailbox.sc.edu",
+      "addressStreet": "1600 Pennsylvania Ave",
+      "addressCity": "Columbia",
+      "addressState": "SC",
+      "addressPostalCode": "29205"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "FRESHMAN",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": true,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "GENERAL",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "ggaysv",
+      "firstName": "GregorySV",
+      "lastName": "Gay",
+      "phone": "999-999-9999",
+      "emailAddress": "ggay@mailbox.sc.edu",
+      "addressStreet": "1600 Pennsylvania Ave",
+      "addressCity": "Columbia",
+      "addressState": "SC",
+      "addressPostalCode": "29205"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",	
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "FRESHMAN",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": true,
+    "freeTuition": false,
+    "scholarship": "SIMS",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "cconnor",
+      "firstName": "Chuck",
+      "lastName": "Connor",
+      "phone": "888-888-8888",
+      "emailAddress": "cconnor@mailbox.sc.edu",
+      "addressStreet": "888 Cabbot Cove",
+      "addressCity": "Chapin",
+      "addressState": "SC",
+      "addressPostalCode": "29036"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "JUNIOR",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": true,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "cconnorf",
+      "firstName": "ChuckF",
+      "lastName": "Connor",
+      "phone": "888-888-8888",
+      "emailAddress": "cconnor@mailbox.sc.edu",
+      "addressStreet": "888 Cabbot Cove",
+      "addressCity": "Chapin",
+      "addressState": "SC",
+      "addressPostalCode": "29036"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "JUNIOR",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": true,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": true,
+    "scholarship": "NONE",
+    "studyAbroad": "NONE",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true,
+    "courses": [
+        {
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Why Did I Take This? A Course on Regret",
+            "id": "PSYCHOLOGY 190",
+            "numCredits": 3
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "cconnorr",
+      "firstName": "ChuckR",
+      "lastName": "Connor",
+      "phone": "888-888-8888",
+      "emailAddress": "cconnor@mailbox.sc.edu",
+      "addressStreet": "888 Cabbot Cove",
+      "addressCity": "Chapin",
+      "addressState": "SC",
+      "addressPostalCode": "29036"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "SUMMER",
+      "year": 2016
+    },
+    "classStatus": "JUNIOR",
+    "gradAssistant": false,
+    "international": true,
+    "internationalStatus": "SHORT_TERM",
+    "resident": false,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "REGULAR",
+    "nationalStudentExchange": true,
+    "outsideInsurance": true,
+    "courses": [
+{
+            "name": "Intro to Computer Science",
+            "id": "CSCE 101",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Underwater Basket Weaving",
+            "id": "STUFF 150",
+            "numCredits": 3,
+            "online": false
+        },
+        {
+            "name": "Algorithmic Design I",
+            "id": "CSCE 145",
+            "numCredits": 4,
+            "online": false
+        },
+        {
+            "name": "Statistics",
+            "id": "STAT 215",
+            "numCredits": 4,
+            "online": false
+        }
+    ]
+  },
+  {
+    "student": {
+      "id": "cconnorC",
+      "firstName": "Chuck",
+      "lastName": "Connor",
+      "phone": "888-888-8888",
+      "emailAddress": "cconnor@mailbox.sc.edu",
+      "addressStreet": "888 Cabbot Cove",
+      "addressCity": "Chapin",
+      "addressState": "SC",
+      "addressPostalCode": "29036"
+    },
+    "college": "ENGINEERING_AND_COMPUTING",
+    "termBegan": {
+      "semester": "FALL",
+      "year": 2017
+    },
+    "classStatus": "GRADUATED",
+    "gradAssistant": false,
+    "international": false,
+    "internationalStatus": "NONE",
+    "resident": true,
+    "activeDuty": false,
+    "veteran": false,
+    "freeTuition": false,
+    "scholarship": "NONE",
+    "studyAbroad": "COHORT",
+    "nationalStudentExchange": false,
+    "outsideInsurance": true
+  }
+]
